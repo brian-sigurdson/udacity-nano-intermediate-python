@@ -3,5 +3,5 @@ Coursework for the Udacity Intermediate Python Nanodegree. The course had two pr
 
 The course is currently in progress, but detailed information will be added shortly.
 1.  Exploring Close Approaches of Near-Earth Objects
-    Develop a Python program that will allow the user "to search for and explore close approaches of near-Earth objects (NEOs), using data from NASA/JPL's Center for Near-Earth Object Studies."
+    * Develop a Python program that will allow the user "to search for and explore close approaches of near-Earth objects (NEOs), using data from NASA/JPL's Center for Near-Earth Object Studies."
 2.  Motivational Meme Generator
