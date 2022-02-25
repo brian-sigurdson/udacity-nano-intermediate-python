@@ -4,7 +4,7 @@ Coursework for the Udacity Intermediate Python Nanodegree. The course had two se
 1.  <strong>Advanced Python Topics</strong>
     * Functions, Functional Programming, Object-Oriented Programming, and File I/O.  
     * The project uses NASA data to create a CLI program to query and filter data held in csv and json format.  
-    * I have paused my activity in this course for now. 
+    * I have paused my activity in this course for now, but my work so far can be found [here](https://github.com/brian-sigurdson/udacity-nano-intermediate-python/tree/main/1_advanced_python_techniques). 
 2.  <strong>Large Codebases with Libraries</strong>
     * PEP standards, Building Modules, Using Libraries, Python in Systems, and Python for Web.  
     * The project is a meme generator.  
